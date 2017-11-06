@@ -607,6 +607,14 @@ Michael Jackson
 Topics: React, JavaScript, React Router  
 https://twitter.com/mjackson
 
+## Chicago
+
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/000/1d0/22e/1ebaaae.jpg" height="70px" width="auto" align="left" />
+
+Brooke Hawkins
+Topics: Voice Interface Design, Conversational Design, Chatbots, Equitable Design
+https://twitter.com/brookebhawkins
+
 ## Cincinnati
 
 <img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left">
